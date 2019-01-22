@@ -3,7 +3,7 @@ package cn.itcast.test;
 public class Test1 {
 
 	public void TestOne() {
-		System.out.println("这是测试3");
+		System.out.println("zheshiceshi3,这是测试3");
 	}
 }
 
